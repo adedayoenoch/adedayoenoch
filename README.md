@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Created a wordpress phishing page</b>
-  - [Wordpress gophish](https://github.com/adedayoenoch/LABURL)
+  - [Wordpress gophish](https://github.com/adedayoenoch/wordpress-phishing/blob/main/README.md)
 
 <h2>📺 Credly</h2>
 
