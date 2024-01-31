@@ -1,8 +1,8 @@
 <h1>Hi, I'm Enoch! <br/><a href="https://github.com/adedayoenoch">Cybersecurity Analyst</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Home Lab Link](https://github.com/adedayoenoch/LABURL)
+- <b>Created a wordpress phishing page</b>
+  - [Wordpress gophish](https://github.com/adedayoenoch/LABURL)
 
 <h2>📺 Credly</h2>
 
